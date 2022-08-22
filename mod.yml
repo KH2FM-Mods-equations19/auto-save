@@ -1,8 +1,8 @@
-title: Auto Save (1.1)
+title: Auto Save (1.1.1)
 originalAuthor: Denhonator
 description: OpenKH port of Denhonator's KH2 auto-save script.
 assets:
-- name: scripts\2fmAutosave.lua
+- name: scripts/2fmAutosave.lua
   method: copy
   source:
   - name: 2fmAutosave.lua
