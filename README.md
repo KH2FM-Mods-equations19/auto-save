@@ -7,3 +7,7 @@ https://github.com/Denhonator/KHPCSpeedrunTools
 Icon by Televo.
 
 https://github.com/Televo/kingdom-hearts-recollection
+
+## Instructions
+
+To load an auto-save, hold down the Select button while loading any save.
