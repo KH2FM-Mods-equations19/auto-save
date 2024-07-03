@@ -11,3 +11,9 @@ https://github.com/Televo/kingdom-hearts-recollection
 ## Instructions
 
 To load an auto-save, hold down the Select button while loading any save.
+
+# Changelog
+
+## 2.0.0
+
+- Incorporate changes for game version 1.0.0.9
